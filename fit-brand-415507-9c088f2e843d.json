@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fit-brand-415507",
+  "private_key_id": "9c088f2e843d3eabd2232d9a0784c10b1533d2c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVmUyL/h6qhYXv\n+4ZW2SFUVs4cYEMfzIxTyfKx6c/zUaSMNBYGlHk/6tNSfbf3T3pcokXgHMPdfZdE\nGkYsD2xqMvkg7iTZGQCf8IohljXYykF34dPABndci+bIczHWfsMc02mS65t9aCzo\neSuNJmaLPjOeJ2L5W/6pj3IVXkg2ZM4v66YeRCh1A2gEx6bjtgVFi0y7eGepL+l3\nKCOEf4GJSmT3XA7Hy2I4q5OrDqCQi9O+WmbDP2ucNOKafhOmH7XymUpQFhZAQpNV\nbx4R5gyLN+iq5JyAuhPpLAhs5ZKgZFn8fzslSqc79QOhD4g9KxLzNXkvLwHbfsh+\nA0PrhUURAgMBAAECggEAHkHCbZw4NNiIMgfzri7AwWUweiWKrKD5ic70EY641dNN\nV0zzh8gVat/1QlyrqB06jI+yDT6V4jStrkh4gzpGFb8VujvxvU0E4SMeNgbEpupz\nnqs/JxbjZpksvl1PBH7dXaJ29IhqdLfCkMXFTQ/Q+816W19h7kfBSbyXoP5DhWy8\n5lFnyypLVrq8XeSbzH0QhmEfIsC7OA9c/UFr+Jtjerm3R//CnQOcXxgRTam40fes\nCCkN/asTMHw/RT5kQgjJqMXQTV4MwGw2tlkrU8D5rkp2AjFloNBt4eHdI5rCpGTT\no1sz+oCWPdGYeAgHz21/ezSvR8rG3EXJqCaAnChxtwKBgQDrEEgEDnFm3YDCEzN0\nqp1icAaOULAbbfDR3mOzBXTCDyX4PK6NYos4WYdCycoJSxhIp/FbIZt1b1HNo49k\n/g2/jLDenwHupR8T4o7aUs0DOWu+wsDEgFoKXnUQBSXidEPFlRdG/yEBzkQZHhVx\nhcdBSZB/6Xrl2D1SM09YPNkTCwKBgQDon5inoVMYCpUGW+Jh0PI4/GHxVtzQoO4S\ntmnt7IykM5WN5aA9BwumCjQCaBlhTNsMkwlsEldKgCBZKOi2SITL7f7IV2gCa7kX\nxpl1e0fSEGXHvxiVfyAxoOSGZNspISAYo3+FlAXcILCsefIjMhDxQkkli76ZCkGB\nYQVi3EuZ0wKBgG1F+lR4altJaUvPJUJ89gEG1uVduSBnMWY+ndZhGPAFnr8RZouv\nXczqQajYqaU8VaOg/uBAdUZYY4zXFhf6ymVbf/VdscZA2Huj/IidqVRwYxgg7P/s\nMu9TDdROsFffeInnTxTgEXYHbzzF8W3+pKxDCHuODGXA6nDGDYKVdswVAoGBAI+u\nG9zWAPvldVyDHlWqeCIIiPpG24alD8dREiaZp9i339TQEuP+2QwKW0ttPtfhX57p\nprUwsufaMaDAatREAHnxGyBlFGICZUWxLhHpPlgaNrNkbevQpHLi3KPB4bgKtMdj\nHR3FasUnD9jITW29u8c4WPOu19+w/PrLkUcZqDxvAoGAIckpqvuQoBOh7w4I5cVf\nWl3DjrWza9TMyCHWMhsy0iA8MHwq/SukRJDDL7eWhVOIKLTtQoZJ+PaM80y+9Jeb\nCjKdg3HhnYwMkPfmb+Bgql+4iPRQPkvdN2u+bbMGJSfV0PFIWI6WmhAViKUDUal1\nOtxc9vWTqdaFIJQZ3g/uzPM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crime-scene-annotator-sa@fit-brand-415507.iam.gserviceaccount.com",
+  "client_id": "111008173491304495959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crime-scene-annotator-sa%40fit-brand-415507.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
